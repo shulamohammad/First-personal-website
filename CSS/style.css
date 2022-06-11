@@ -1,0 +1,154 @@
+
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color: #40514E;
+}
+
+
+h1{
+    margin-top: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+   color:  #66BFBF ;
+  
+}
+
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color:  #66BFBF ;
+    font-weight: normal;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color:  #66BFBF ;
+   
+ 
+}
+
+.Top-container{
+    
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
+   
+   
+}
+
+
+
+
+.Pro{
+    text-decoration-line: underline;
+}
+
+.Bottom-cloud{
+    position: absolute;
+    left: 400px;
+    bottom: 300px;
+}
+.Top-cloud{
+    position: absolute;
+    right: 400px;
+    top: 50px;
+}
+
+.pic{
+    height: 200px;
+    width: 200px;
+    margin-top: 50px;
+}
+.coding{
+    height: 200px;
+    width: 200px;
+}
+
+.noodle{
+
+    height: 200px;
+    width: 200px;
+}
+
+a{
+color:  #11999E ;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+    
+}
+.coding{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+   
+}
+.noodle{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+    clear: right;
+}
+hr{
+    width: 4%;
+    border: 8px dotted;
+    border-style: none none dotted;
+    color: #EAF6F6;
+    margin-top: 100px;
+    margin-bottom: 75px;
+    
+}
+.bottom-container{
+
+    background-color: #66BFBF;
+    height: 82px; 
+    padding: 50px;
+    margin-top: 50px;
+
+}
+.footer-link{
+   font-family:  'Montserrat', sans-serif;
+  padding-right: 40px;
+  line-height: 3;
+  text-decoration:none;
+  color: #11999E;
+}
+
+
+.btn {
+    -webkit-border-radius: 12;
+    -moz-border-radius: 12;
+    border-radius: 12px;
+    -webkit-box-shadow: 0px 1px 3px #666666;
+    -moz-box-shadow: 0px 1px 3px #666666;
+    box-shadow: 0px 1px 3px #666666;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    background: #11999E;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    text-decoration: none;
+  }
+
+.contact-me{
+    font-family:  'Montserrat', sans-serif;
+    line-height: 3;
+}
+
+.footer-color{
+    color: #EAF6F6;
+    font-size: smaller;
+    
+}
+
+
